@@ -1,5 +1,3 @@
-
-
 let rootPath ="https://mysite.itvarsity.org/api/ContactBook/";   // location of the server
 let apiKey = checkApiKey();
 
